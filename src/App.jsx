@@ -118,7 +118,7 @@ const ValentineWebsite = () => {
         <Fade in={showContent} timeout={1000}>
           <Container maxWidth="lg" className="content-container">
             <Typography variant="h3" className="title" style={{ fontFamily: "cursive" , fontWeight:"bold"}}>
-              Feliz Día Mi Amor 🤍
+              Happy Valentine's Day My Love 🤍
             </Typography>
             <div className="card-container">
               {cardData.map((card, index) => (
